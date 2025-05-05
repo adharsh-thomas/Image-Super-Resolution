@@ -25,3 +25,5 @@ CIFAR-10 (32x32 images)
 
 ## Author
 Created by Adharsh (repo will be renamed if needed)
+
+[Download My Paper] https://github.com/adharsh-thomas/Image-Super-Resolution/blob/main/1-%20CRP-%20ARET-2025_%20893.docx
